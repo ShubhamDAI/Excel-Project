@@ -14,11 +14,12 @@ This project is an interactive **School Management System Dashboard** created us
 - Dedicated Teachers, Students, Events, and Exams pages
 - Excel formulas for automatic updates and linked dashboard elements
 - Interactive navigation between worksheets
+- Using of Macro by write a VBA code
 
 Dashboard -<a href="https://github.com/ShubhamDAI/Excel-Project/blob/main/Screenshot%202026-10-15%20185642.png"> Dashboard View </a> 
 
 ### 🛠️ Tools 
-Microsoft Excel | Pivot Tables | Charts | Slicers | Excel Formulas | Data Visualization
+Microsoft Excel | Pivot Tables | Charts | Slicers | Excel Formulas | Data Visualization | Macro | VBA Code
 
 <img width="1422" height="702" alt="Screenshot 2026-10-15 185642" src="https://github.com/user-attachments/assets/c93eb734-532f-4b84-a155-5f979d30d151" />
 
