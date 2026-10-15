@@ -15,7 +15,7 @@ This project is an interactive **School Management System Dashboard** created us
 - Excel formulas for automatic updates and linked dashboard elements
 - Interactive navigation between worksheets
 
-- Dashboard -<a href="https://github.com/ShubhamDAI/Excel-Project/blob/main/Screenshot%202026-10-15%20185642.png"> Dashboard View </a> 
+Dashboard -<a href="https://github.com/ShubhamDAI/Excel-Project/blob/main/Screenshot%202026-10-15%20185642.png"> Dashboard View </a> 
 
 ### 🛠️ Tools 
 Microsoft Excel | Pivot Tables | Charts | Slicers | Excel Formulas | Data Visualization
