@@ -3,7 +3,7 @@
 This project is an interactive **School Management System Dashboard** created using Microsoft Excel to visualize and organize school-related data in a modern and user-friendly interface.
 
 ## Dataset used
-- <a href="https://github.com/ShubhamDAI/Excel-Project/blob/main/School%20Management%20System.xlsx">Dataset View </a>
+- <a href="https://github.com/ShubhamDAI/Excel-Project/blob/main/School%20Management%20System.xlsm">Dataset View </a>
 
 ### 🚀 Used 
 - Dynamic KPI cards for key school statistics
